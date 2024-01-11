@@ -3,8 +3,8 @@
 // @namespace    http://amazon.com/
 // @version      0.2
 // @description  A Tampermonkey userscript which rename Chute IDs to Lables
-// @updateURL    https://raw.githubusercontent.com/sriem/MySPD_rename/main/MySPD_rename_script.js
-// @downloadURL  https://raw.githubusercontent.com/sriem/MySPD_rename/main/MySPD_rename_script.js
+// @updateURL    https://raw.githubusercontent.com/atmei/AZA5GrafanaChutes/main/Current
+// @downloadURL  https://raw.githubusercontent.com/atmei/AZA5GrafanaChutes/main/Current
 // @author       tandrmei
 // @match      https://grafana-prod.prod.us-east-1.grafana.insights.aft.amazon.dev/d/*
 // @grant        none
